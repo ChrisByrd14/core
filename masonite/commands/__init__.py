@@ -28,3 +28,4 @@ from .SeedRunCommand import SeedRunCommand
 from .TestCommand import TestCommand
 from .TinkerCommand import TinkerCommand
 from .UpCommand import UpCommand
+from .Scheduler import Scheduler
